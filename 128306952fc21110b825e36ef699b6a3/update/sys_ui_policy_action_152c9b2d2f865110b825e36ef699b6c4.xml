@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>balance</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-20 09:52:43</sys_created_on>
+        <sys_id>152c9b2d2f865110b825e36ef699b6c4</sys_id>
+        <sys_name>balance</sys_name>
+        <sys_package display_value="Leave Management System" source="x_842317_lms">128306952fc21110b825e36ef699b6a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">128306952fc21110b825e36ef699b6a3</sys_scope>
+        <sys_update_name>sys_ui_policy_action_152c9b2d2f865110b825e36ef699b6c4</sys_update_name>
+        <table>x_842317_lms_leave_request</table>
+        <ui_policy display_value="Make fields madnatory">7e4a9be92f865110b825e36ef699b66a</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
